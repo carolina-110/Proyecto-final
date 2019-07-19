@@ -12,9 +12,9 @@
 
 .marco {
     padding: 3px 10px;
-    border: PowderBlue 5px solid;
+    /* border: PowderBlue 5px solid; */
     border-radius: 20px;
-    width: 50%;
+    width: 100%;
   }
 
   .form-group{
@@ -45,3 +45,10 @@
 .form-group h5 {
     color: #36A0FF;
 }
+
+.botones-incio{
+    display: flex;
+    justify-content: space-around;
+
+}
+
