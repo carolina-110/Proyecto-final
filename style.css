@@ -1,0 +1,17 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+    text-align: center;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.marco {
+    padding: 3px 10px;
+  border: PowderBlue 5px solid;
+  border-radius: 20px;
+  }
