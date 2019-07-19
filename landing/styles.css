@@ -1,0 +1,54 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+    text-align: center;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.marco {
+    padding: 3px 10px;
+    /* border: PowderBlue 5px solid; */
+    border-radius: 20px;
+    width: 100%;
+  }
+
+  .form-group{
+    display: flex;
+    justify-content: center;
+    border-radius: 70px;
+  }
+
+.form-control {
+    border-radius: 22px !important;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;    
+}
+
+.image-container img {
+    width: 20%;
+}
+
+.form-group h5 {
+    color: #36A0FF;
+}
+
+.botones-incio{
+    display: flex;
+    justify-content: space-around;
+
+}
+
